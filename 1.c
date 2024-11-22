@@ -5,4 +5,5 @@ int main(){
 	int sum =a+b;
         int sub=a-b;
          int div=a/b;
+	 int mul=a*b;
 }
